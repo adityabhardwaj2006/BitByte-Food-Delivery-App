@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832073773768",
+    "project_id": "zomatoclone-76d3d",
+    "storage_bucket": "zomatoclone-76d3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832073773768:android:c57e963286e0fdc91b2bfd",
+        "android_client_info": {
+          "package_name": "com.example.zomatoclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOeXKREC86tDvlnRhV5eUN_UJYmjaWFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
