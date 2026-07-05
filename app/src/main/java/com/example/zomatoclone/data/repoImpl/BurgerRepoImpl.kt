@@ -1,7 +1,7 @@
 package com.example.zomatoclone.data.repoImpl
 
 import com.example.zomatoclone.data.models.Burger
-import com.example.zomatoclone.domain.Api.BurgersApi
+import com.example.zomatoclone.data.Api.BurgersApi
 import com.example.zomatoclone.domain.repo.BurgerRepo
 import javax.inject.Inject
 

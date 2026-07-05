@@ -1,4 +1,4 @@
-package com.example.zomatoclone.domain.Api
+package com.example.zomatoclone.data.Api
 
 import com.example.zomatoclone.data.models.Sweets
 import retrofit2.http.GET

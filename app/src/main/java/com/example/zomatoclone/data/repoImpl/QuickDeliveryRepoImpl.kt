@@ -1,9 +1,8 @@
 package com.example.zomatoclone.data.repoImpl
 
 import com.example.zomatoclone.data.models.QuickScreenItems
-import com.example.zomatoclone.domain.Api.QuickDeliveryApi
+import com.example.zomatoclone.data.Api.QuickDeliveryApi
 import com.example.zomatoclone.domain.repo.QuickDeliveryRepo
-import com.example.zomatoclone.domain.repo.Repo
 import javax.inject.Inject
 
 class QuickDeliveryRepoImpl @Inject constructor(

@@ -1,7 +1,7 @@
 package com.example.zomatoclone.data.repoImpl
 
 import com.example.zomatoclone.data.models.AllCategoryItem
-import com.example.zomatoclone.domain.Api.AllCategoryApi
+import com.example.zomatoclone.data.Api.AllCategoryApi
 import com.example.zomatoclone.domain.repo.AllCategoryRepo
 import javax.inject.Inject
 
